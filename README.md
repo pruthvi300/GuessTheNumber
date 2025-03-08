@@ -1,3 +1,9 @@
+
+![Screenshot from 2025-03-08 22-59-10](https://github.com/user-attachments/assets/2982b110-f81d-47b0-a6e5-4a5d4655f257)
+![Screenshot from 2025-03-08 22-58-55](https://github.com/user-attachments/assets/42f864c4-0548-43d7-937c-7dcd13ba8662)
+![Screenshot from 2025-03-08 22-58-41](https://github.com/user-attachments/assets/52a9ff94-fe44-4821-b986-b7375f29829f)
+
+
 # 🎯 GuessTheNumber
 
 A simple **Number Guessing Game** built with **HTML, CSS, and JavaScript**.  
@@ -60,7 +66,3 @@ Open index.html in your browser.
 
 3. Open index.html in your browser.
 
-
-![Screenshot from 2025-03-08 22-59-10](https://github.com/user-attachments/assets/2982b110-f81d-47b0-a6e5-4a5d4655f257)
-![Screenshot from 2025-03-08 22-58-55](https://github.com/user-attachments/assets/42f864c4-0548-43d7-937c-7dcd13ba8662)
-![Screenshot from 2025-03-08 22-58-41](https://github.com/user-attachments/assets/52a9ff94-fe44-4821-b986-b7375f29829f)
